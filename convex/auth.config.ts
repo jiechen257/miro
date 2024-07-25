@@ -1,7 +1,7 @@
 const authConfig = {
   providers: [
     {
-      domain: "https://ample-slug-6.clerk.accounts.dev",
+      domain: "https://next-chimp-34.clerk.accounts.dev",
       applicationID: "convex",
     },
   ],
